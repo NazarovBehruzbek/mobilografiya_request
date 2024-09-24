@@ -90,10 +90,10 @@ function RequestPage() {
     };
 
     const timeOptions = [
-        { label: '10:00 - 12:00', value: '10:12' },
-        { label: '15:00 - 17:00', value: '15:17' },
-        { label: '17:00 - 19:00', value: '17:19' },
-        { label: '19:00 - 21:00', value: '19:21' }
+        { label: '10:00 - 12:00', value: '10:00 - 12:00' },
+        { label: '15:00 - 17:00', value: '15:00 - 17:00' },
+        { label: '17:00 - 19:00', value: '17:00 - 19:00' },
+        { label: '19:00 - 21:00', value: '19:00 - 21:00' }
     ];
 
     return (
